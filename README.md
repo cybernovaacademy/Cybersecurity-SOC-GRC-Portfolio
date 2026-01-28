@@ -350,7 +350,7 @@ These links reflect common resources used by SOC and GRC professionals when buil
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/company/109275899/admin/page-posts/published/
+- LinkedIn: <a href="https://www.linkedin.com/company/109275899/admin/page-posts/published/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - Email: training@cybernovaacademy.com.au
 - Portfolio: [https://github.com/cybernovaacademy/Cybersecurity-SOC-GRC-Portfolio/edit/main/README.md]
 - Instagram:
