@@ -85,7 +85,7 @@ SOC / SIEM / Incident Response Projects
 | Security Automation with Shuffle SOAR           | <a href="https://github.com/yourusername/soc-automation">SOC Automation Lab</a>               |
 | Incident Response Planning and Execution        | <a href="https://github.com/yourusername/incident-response-casebook">IR Casebook</a>          |
 | Case Management with TheHive                    | <a href="https://github.com/yourusername/thehive-case-management">TheHive Case Management</a> |
-| Scripting and Automation for Threat Mitigation  | <a href="https://github.com/yourusername/threat-hunting-pack">Threat Hunting Pack</a>         |
+| Scripting and Automation for Threat Mitigation  | <a href="https://github.com/cybernovaacademy/Threat-Hunting-Pack/blob/main/README.md">Threat Hunting Pack</a>|
 | Detection and Response using Suricata and Wazuh | <a href="https://github.com/cybernovaacademy/Detection-and-Response-Using-Suricata-and-Wazuh-Project">SOC Log Analysis & Detection and Response </a>|
 
 Incident Response Projects
