@@ -92,7 +92,7 @@ Incident Response (IR) Projects
 
 | Project                                                    | Repository                                                                                        |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| IR Brute Force Attack  Detection using Microsoft Sentinel, IDS DFE, Honeypot, Kali Linux | <a href="https://github.com/yourusername/ir-brute-force-attack">IR Brute Force Attack</a>|
+| IR Brute Force Attack  Detection using Microsoft Sentinel, IDS DFE, Honeypot, Kali Linux | <a href="https://github.com/cybernovaacademy/IR-Brute-Force-Attack---Project/blob/main/README.md">IR Brute Force Attack</a>|
 | Incident Response – PowerShell Suspicious Web Request      | <a href="https://github.com/yourusername/ir-powershell-web-request">IR PowerShell Web Request</a> |
 | Incident Response – Potential Impossible Travel            | <a href="https://github.com/yourusername/ir-impossible-travel">IR Impossible Travel</a>           |
 | Incident Response – Excessive Resource Creation / Deletion | <a href="https://github.com/yourusername/ir-resource-abuse">IR Resource Abuse</a>                 |
