@@ -339,7 +339,7 @@ These links reflect common resources used by SOC and GRC professionals when buil
 ---
 
 ## How to Use This Repo
-1. Create a GitHub repository named exactly your GitHub username (for example, `AugustineEdeh`) so this README becomes your profile page. [web:16]  
+1. Create a GitHub repository named exactly your GitHub username (for example, `JohnOnubogu`) so this README becomes your profile page. [web:16]  
 2. Replace placeholder links (`yourusername`, example URLs) with your actual repositories and resources.  
 3. Add screenshots to an `/images` directory and reference them in this README.  
 4. Each week, add:
